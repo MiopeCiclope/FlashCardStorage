@@ -3,7 +3,7 @@
     "decks": [
       {
         "id": "wo4tgyj1iw",
-        "name": "Svenska",
+        "name": "test",
         "iconName": "Hoem",
         "cards": [
           {
@@ -891,7 +891,7 @@
     ],
     "selectedDeck": {
       "id": "wo4tgyj1iw",
-      "name": "Svenska",
+      "name": "test",
       "iconName": "Hoem",
       "cards": [
         {
@@ -1775,6 +1775,17 @@
           }
         }
       ]
+    },
+    "selectedCard": {
+      "id": "5k0lfk776ni",
+      "front": {
+        "word": "test"
+      },
+      "back": {
+        "translation": "test",
+        "sound": "test",
+        "detail": "test"
+      }
     }
   },
   "_persist": {
