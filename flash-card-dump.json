@@ -3,7 +3,7 @@
     "decks": [
       {
         "id": "wo4tgyj1iw",
-        "name": "test",
+        "name": "Svenska",
         "iconName": "Hoem",
         "cards": [
           {
@@ -874,24 +874,13 @@
               "sound": "léara",
               "detail": ""
             }
-          },
-          {
-            "id": "5k0lfk776ni",
-            "front": {
-              "word": "test"
-            },
-            "back": {
-              "translation": "test",
-              "sound": "test",
-              "detail": "test"
-            }
           }
         ]
       }
     ],
     "selectedDeck": {
       "id": "wo4tgyj1iw",
-      "name": "test",
+      "name": "Svenska",
       "iconName": "Hoem",
       "cards": [
         {
@@ -1762,30 +1751,8 @@
             "sound": "léara",
             "detail": ""
           }
-        },
-        {
-          "id": "5k0lfk776ni",
-          "front": {
-            "word": "test"
-          },
-          "back": {
-            "translation": "test",
-            "sound": "test",
-            "detail": "test"
-          }
         }
       ]
-    },
-    "selectedCard": {
-      "id": "5k0lfk776ni",
-      "front": {
-        "word": "test"
-      },
-      "back": {
-        "translation": "test",
-        "sound": "test",
-        "detail": "test"
-      }
     }
   },
   "_persist": {
